@@ -1,3 +1,3 @@
 # japan-token
-https://japan-token-sandy.vercel.app/ <br>
+https://japan-token-sandy.vercel.app/ \
 https://japan-stake.vercel.app/
